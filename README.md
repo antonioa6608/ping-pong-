@@ -1,5 +1,6 @@
-# ping-pong-
+# ping-pong- 
 pygame 
+# Future features: add player score bar , timer , make ball slower (current ball speed is fast) 
 
 
 # I enjoy retro games and decided to create a ping pong game using pygame 
